@@ -1,5 +1,5 @@
 
-# Cypher-SQL Project
+# DAIL-Cypher Project
 
 This project aims to support interaction with graph databases via natural language processing, enabling the generation of Cypher queries from natural language. It also integrates large language models (LLMs) for efficient task execution. Below is a detailed explanation of the project files and their functions.
 
